@@ -2,7 +2,7 @@
   {
     "id": 1,
     "company": "Photosnap",
-    "logo": "./images/photosnap.svg",
+    "logo": "https://avatars.mds.yandex.net/i?id=207777aadf6a147bdd6ec7e3cbca01ee_l-5233360-images-thumbs&n=13",
     "new": true,
     "featured": true,
     "position": "Senior Frontend Developer",
@@ -17,7 +17,7 @@
   {
     "id": 2,
     "company": "Manage",
-    "logo": "./images/manage.svg",
+    "logo": "https://avatars.mds.yandex.net/i?id=207777aadf6a147bdd6ec7e3cbca01ee_l-5233360-images-thumbs&n=13",
     "new": true,
     "featured": true,
     "position": "Fullstack Developer",
@@ -32,7 +32,7 @@
   {
     "id": 3,
     "company": "Account",
-    "logo": "./images/account.svg",
+    "logo": "./images/eyecam-co.svg",
     "new": true,
     "featured": false,
     "position": "Junior Frontend Developer",
