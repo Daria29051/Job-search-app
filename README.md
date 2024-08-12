@@ -3,7 +3,7 @@
 <img src="src/assets/images/interface.png" />
 
 ## Website link: <br/>
-<a target="_blank"></a>
+<a target="_blank">https://daria29051.github.io/Job-search-app/</a>
 
 ## Getting Started
 In the project directory, you can run: <br/>
