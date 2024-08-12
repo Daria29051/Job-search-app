@@ -18,4 +18,4 @@ In the project directory, you can run: <br/>
 
 
 ## Technologies <br/>
-HTML, CSS, React, Redux<br/><br/>
+HTML, CSS, JavaScript, React, Redux<br/><br/>
